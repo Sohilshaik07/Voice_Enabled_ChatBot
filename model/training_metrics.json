@@ -1,0 +1,17 @@
+{
+  "dataset_samples": 450,
+  "intent_classes": 15,
+  "samples_per_intent": 30,
+  "training_loss": 0.2189422845840454,
+  "training_accuracy": 0.9722222089767456,
+  "validation_loss": 1.1982083320617676,
+  "validation_accuracy": 0.7222222089767456,
+  "validation_weighted_precision": 0.7549591149591149,
+  "validation_weighted_recall": 0.7222222222222222,
+  "validation_weighted_f1": 0.7234373904962139,
+  "epochs_completed": 21,
+  "best_validation_loss": 1.198208212852478,
+  "best_validation_loss_epoch": 13,
+  "best_validation_accuracy": 0.7444444298744202,
+  "split": "stratified 80:20; tokenizer fit on training split only"
+}
