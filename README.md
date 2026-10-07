@@ -5,7 +5,7 @@ A web-based **Voice-Enabled University Information Chatbot** built using **Speec
 ## 🌐 Live Application
 
 **Streamlit App:**  
-https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbx.streamlit.app/
+[https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbx.streamlit.app/](https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbxc.streamlit.app/)
 
 ## 📂 Source Code
 
@@ -342,4 +342,4 @@ https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbx.streamlit.app/
 Developed as part of the **Speech and Language Processing** mini project.
 
 **GitHub:** https://github.com/Sohilshaik07/Voice_Enabled_ChatBot  
-**Live App:** https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbx.streamlit.app/
+**Live App:** [https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbx.streamlit.app/](https://voiceenabledchatbot-m6h2t5dwzipq5abxtxhbxc.streamlit.app/)
