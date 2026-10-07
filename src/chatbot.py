@@ -31,7 +31,7 @@ def load_responses(dataset_path: Path | None = None) -> dict[str, list[str]]:
 
 def load_artifacts(model_dir: Path | None = None):
     model_dir = model_dir or project_root() / "model"
-    required = [model_dir / "chatbot_model.keras", model_dir / "tokenizer.pkl", model_dir / "label_encoder.pkl"]
+    required = [model_dir / "chatbot_model.h5", model_dir / "tokenizer.pkl", model_dir / "label_encoder.pkl"]
     missing = [path.name for path in required if not path.exists()]
     if missing:
         raise FileNotFoundError("Missing trained artifact(s): " + ", ".join(missing) + ". Run: python train.py")
